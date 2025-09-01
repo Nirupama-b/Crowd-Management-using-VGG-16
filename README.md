@@ -4,29 +4,21 @@ This project implements a real-time crowd counting system using the VGG-19 deep 
 ✨ Features
 
 Uses VGG-19 for people counting through density map estimation
-
 Real-time video frame processing with OpenCV
-
 Accurate estimation of crowd size per frame
-
 Can be integrated with alert systems to prevent overcrowding
-
 Designed for deployment in railway stations and other public areas
 
 🚀 Achievements
 
 Selected for the Internal Qualification Round of the Smart India Hackathon
-
 Optimized for real-time inference
 
 🛠️ Tech Stack
 
 Deep Learning Model: VGG-19
-
 Frameworks: TensorFlow / PyTorch (specify which you used)
-
 Computer Vision: OpenCV
-
 Language: Python
 
 📌 Use Case
